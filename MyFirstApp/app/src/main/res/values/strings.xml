@@ -2,7 +2,7 @@
     <string name="app_name">My First App</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">An App By Monil Mody</string>
+    <string name="first_fragment_label">An App By Dipesh Bharambe</string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="random_button_text">Random</string>
     <string name="previous">Previous</string>
